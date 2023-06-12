@@ -1,0 +1,10 @@
+* glass
+
+Common Lisp GSS layer
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/glass.git   |
+| commit  | b256d12  |
+| systems | glass |
+|---------+-------------------------------------------|
+
